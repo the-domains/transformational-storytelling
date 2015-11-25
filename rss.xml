@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Transformational Storytelling]]></title>
+        <description><![CDATA[Transformational Storytelling]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 25 Nov 2015 21:50:48 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://inspirationalstorytelling.com/wp-content/uploads/2015/05/Cave.jpg">]]></description>
+            <link>http://inspirationalstorytelling.com/wp-content/uploads/2015/05/Cave.jpg</link>
+            <guid isPermaLink="false">c6181754-d66a-42d2-9128-114c9b53a691</guid>
+            <pubDate>Wed, 25 Nov 2015 21:50:37 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
