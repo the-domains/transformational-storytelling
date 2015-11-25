@@ -1,7 +1,7 @@
 name: Transformational Storytelling
 favicon: null
-layout_spectrum: 0.27391390525735915
-typography_spectrum: 0.9807654051110148
+layout_spectrum: 0.24501
+typography_spectrum: 0.66048
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#110c08'
+    - '#60281c'
+    - '#b25e25'
+    - '#6f4e23'
+    - '#d23225'
   brandStrength: 0.5901225889101624
-  lightness: 0.8221574209164828
-  saturation: 0.025517143309116364
-  rhythmicContrast: 0.3074664387386292
+  lightness: 0.25
+  saturation: 0.125
+  rhythmicContrast: 0.5
 purpose: []
