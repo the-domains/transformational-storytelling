@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[Transformational Storytelling]]></title>
         <description><![CDATA[Transformational Storytelling]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/transformational-storytelling/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 25 Nov 2015 21:50:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 26 Nov 2015 22:48:17 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/transformational-storytelling/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[National Storytelling Network]]></title>
+            <description><![CDATA[<article><h1>National Storytelling Network</h1><p>National Storytelling Network: connecting people to and through storytelling</p><img src="http://www.storynet.org/conference/images/spotlightonstorytelling400.jpg"></article>]]></description>
+            <link>http://www.storynet.org/</link>
+            <guid isPermaLink="false">737d3ac0-c3f0-4968-8657-e7542b18fe8f</guid>
+            <pubDate>Thu, 26 Nov 2015 22:48:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://inspirationalstorytelling.com/wp-content/uploads/2015/05/Cave.jpg">]]></description>
