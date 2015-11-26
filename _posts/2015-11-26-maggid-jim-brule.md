@@ -2,10 +2,10 @@
 author: []
 related: []
 publisher:
-  url: 'http://jimbrule.com'
   name: Maggid Jim Brule
-  favicon: 'http://jimbrule.com/wp-content/uploads/2015/09/cropped-WaterSq.fw_-192x192.png'
   domain: jimbrule.com
+  url: 'http://jimbrule.com'
+  favicon: 'http://jimbrule.com/wp-content/uploads/2015/09/cropped-WaterSq.fw_-192x192.png'
 keywords:
   - spirituality
   - deeper
@@ -22,13 +22,15 @@ inLanguage: en
 app_links: []
 isBasedOnUrl: 'http://jimbrule.com/'
 title: Maggid Jim Brule
-datePublished: '2015-11-26T22:54:32.737Z'
-dateModified: '2015-11-26T22:51:51.704Z'
+datePublished: '2015-11-26T22:57:00.096Z'
+dateModified: '2015-11-26T22:56:51.717Z'
 sourcePath: _posts/2015-11-26-maggid-jim-brule.md
 published: true
 inFeed: true
 hasPage: false
 inNav: false
+starred: true
+authors: []
 _context: 'http://schema.org'
 _type: MediaObject
 
