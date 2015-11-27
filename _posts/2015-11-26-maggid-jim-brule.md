@@ -1,11 +1,9 @@
 ---
-author: []
-related: []
-publisher:
-  name: Maggid Jim Brule
-  domain: jimbrule.com
-  url: 'http://jimbrule.com'
-  favicon: 'http://jimbrule.com/wp-content/uploads/2015/09/cropped-WaterSq.fw_-192x192.png'
+inFeed: true
+hasPage: true
+inNav: true
+inLanguage: en
+starred: true
 keywords:
   - spirituality
   - deeper
@@ -18,19 +16,21 @@ keywords:
   - exploring
   - vantage
 description: Spiritual Storytelling and Discovery
-inLanguage: en
+datePublished: '2015-11-27T03:58:49.271Z'
+dateModified: '2015-11-27T03:58:40.085Z'
+author: []
+related: []
 app_links: []
-isBasedOnUrl: 'http://jimbrule.com/'
 title: Maggid Jim Brule
-datePublished: '2015-11-26T22:57:00.096Z'
-dateModified: '2015-11-26T22:56:51.717Z'
 sourcePath: _posts/2015-11-26-maggid-jim-brule.md
 published: true
-inFeed: true
-hasPage: false
-inNav: false
-starred: true
 authors: []
+publisher:
+  name: Maggid Jim Brule
+  domain: jimbrule.com
+  url: 'http://jimbrule.com'
+  favicon: 'http://jimbrule.com/wp-content/uploads/2015/09/cropped-WaterSq.fw_-192x192.png'
+url: maggid-jim-brule/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
