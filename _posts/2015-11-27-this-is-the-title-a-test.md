@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Life is full of robust opportunities, most of them lost to the casual eye.'
-datePublished: '2015-11-27T15:19:57.046Z'
-dateModified: '2015-11-27T15:19:48.764Z'
+datePublished: '2015-11-27T15:25:09.556Z'
+dateModified: '2015-11-27T15:24:58.847Z'
 title: 'Open yourself '
 author: []
 sourcePath: _posts/2015-11-27-this-is-the-title-a-test.md
