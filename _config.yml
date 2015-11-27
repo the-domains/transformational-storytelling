@@ -1,7 +1,7 @@
 name: Transformational Storytelling
 favicon: null
-layout_spectrum: 0.54724
-typography_spectrum: 0.58221
+layout_spectrum: 1
+typography_spectrum: 0.85915
 title: Spiritual Transformation through the power of Story.
 cta:
   domain: null
@@ -25,5 +25,5 @@ color:
   brandStrength: 0.5901225889101624
   lightness: 0.25
   saturation: 0.8125
-  rhythmicContrast: 0.75
+  rhythmicContrast: 0.5
 purpose: []
