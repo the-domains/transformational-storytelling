@@ -6,8 +6,8 @@ inLanguage: null
 starred: true
 keywords: []
 description: Change your story - change the world.
-datePublished: '2015-11-27T05:52:32.824Z'
-dateModified: '2015-11-27T05:49:44.578Z'
+datePublished: '2015-11-27T14:28:27.564Z'
+dateModified: '2015-11-27T05:52:32.824Z'
 author: []
 title: Transformational Storytelling
 sourcePath: _posts/2015-11-27-transformational-storytelling.md
