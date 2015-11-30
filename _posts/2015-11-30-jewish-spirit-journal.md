@@ -1,7 +1,7 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: en
 starred: false
 keywords:
@@ -16,20 +16,20 @@ keywords:
   - paperback
   - hebrew
 description: "\"Maggid Yitzhak Buxbaum sends out a very brief hasidic teaching or anecdote daily for free. To sign up, contact Reb Yitzhak. Serach The Israelite Survivor Read the interview with Maggid Yitzhak Buxbaum in New York's The Jewish Week . The Life and Teachings of Hillel, by Yitzhak Buxbaum - Now in Paperback!"
-datePublished: '2015-11-30T14:14:03.853Z'
-dateModified: '2015-11-30T14:13:47.584Z'
+datePublished: '2015-11-30T14:17:56.779Z'
+dateModified: '2015-11-30T14:17:50.770Z'
 author: []
 related: []
 app_links: []
 title: Jewish Spirit Journal
+sourcePath: _posts/2015-11-30-jewish-spirit-journal.md
+published: true
 authors: []
 publisher:
   name: Jewishspirit
   domain: jewishspirit.com
   url: 'http://jewishspirit.com'
   favicon: null
-sourcePath: _posts/2015-11-30-jewish-spirit-journal.md
-published: true
 url: jewish-spirit-journal/index.html
 _context: 'http://schema.org'
 _type: MediaObject
